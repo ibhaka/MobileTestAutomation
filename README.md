@@ -3,6 +3,9 @@
 Mobile test automation project for the [obilet.com](https://www.obilet.com) Android app.
 Built with **Appium 3.x + Selenium Java + Cucumber BDD**.
 
+<img width="1398" height="779" alt="Ekran Resmi 2026-03-18 01 23 14" src="https://github.com/user-attachments/assets/88d11dff-225d-4de8-be71-cab145e919c1" />
+
+
 ---
 
 ## Tech Stack
